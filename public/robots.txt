@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mamleshwar-yerge.netlify.app/sitemap.xml
